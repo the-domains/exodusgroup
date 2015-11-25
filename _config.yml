@@ -1,0 +1,28 @@
+name: ExodusGroup
+favicon: null
+layout_spectrum: 0.41286037722602487
+typography_spectrum: 0.16056908387690783
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.4117373866029084
+  lightness: 0.43823138484731317
+  saturation: 0.7099885160569102
+  rhythmicContrast: 0.6686850120313466
+purpose: []
